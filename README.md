@@ -1,18 +1,20 @@
-<h1 align="center">Hi 👋🏻, I'm fitosky1 (aka Rodolfo Briones)</h1>
-<h3 align="center">Data and Computer Scientist 📊 via Computational-Chemistry, -Biophysics and Bioinformatics 🧪🔬🧬💻 </h3>
+<h1 align="center">Hi there 👋🏻, I'm fitosky1 (aka Rodolfo Briones)</h1>
+<h3 align="center">Data and Computer Scientist 📊 via Computational-Chemistry, -Biophysics, Bioinformatics and Data-Science Projects🧪🔬🧬💻 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitosky1&label=Profile%20views&color=0e75b6&style=flat" alt="fitosky1" /> </p>
 
-- 🔭 ***I’m currently working on:*** Building out my Data Science Portfolio
+- 🧪 ***I’m Biochemist and Chemistry PhD:*** from 🦉[Universidad de Chile](https://www.uchile.cl)
 
-- 👀🌱 ***I’m currently learning:*** Whisper, Fusion 360, and more!
+- 👀 ***I’m currently working on:*** Building out my Data Science Portfolio
+
+- 🌱 ***I’m currently learning:*** Whisper, Fusion 360, and more!
 
 <!--- - ⚡ ***Fun facts:***  I 💖 music, sci-fi, reading, biking --->
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rodolfo-briones-phd/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rodolfo-briones-phd/" height="30" width="40" /></a>
-<a href="mailto:fitobriones+git@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="fitobriones+git@gmail.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rodolfo-briones-phd/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/linkedin.svg" alt="https://www.linkedin.com/in/rodolfo-briones-phd/" height="30" width="40" /></a>
+<a href="mailto:fitobriones+git@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/gmail.svg" alt="fitobriones+git@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,10 +24,11 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="128" height="64"/>  
 <a href="https://www.latex-project.org" target="_blank"> <img src="https://github.com/detain/svg-logos/blob/master/svg/latex.svg" alt="latex" width="64" height="64"/></a>   
 <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="64" height="64"/> </a>   
+<a href="https://www.gromacs.org/" target="_blank"> <img src="https://gitlab.com/uploads/-/system/project/avatar/17679574/gmx_falcon_blue.png?width=64" alt="gromacs" width="64" height="64"/></a>   
 <a href="https://www.nextflow.io" target="_blank"> <img src="https://www.nextflow.io/img/nextflow2014_no-bg.png" alt="nextflow" width="224" height="64"/> </a>   
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="64" height="64"/>   
 <a href="https://www.docker.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="git" width="64" height="64"/> </a>  
-<!--- <a href="https://www.gromacs.org/" target="_blank"> <img src="https://www.gromacs.org/_images/gmx_logo_blue.png" alt="gromacs" width="64" height="64"/></a> --->
+<a href="https://www.arduino.cc" target="_blank"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="git" width="64" height="64"/> </a>  
  
  </p>
 
