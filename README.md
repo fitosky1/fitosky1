@@ -7,7 +7,7 @@
 
 - 👀 ***I’m currently working on:*** Building out my Data Science Portfolio
 
-- 🌱 ***I’m currently learning:*** Whisper, Fusion 360, and more!
+- 🌱 ***I’m currently learning:*** dbSNP, Whisper, Fusion 360, and more!
 
 <!--- - ⚡ ***Fun facts:***  I 💖 music, sci-fi, reading, biking --->
 
