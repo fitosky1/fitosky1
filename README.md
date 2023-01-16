@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋🏻, I'm fitosky1 (aka Rodolfo Briones)</h1>
-<h3 align="center">Data and Computer Scientist 📊 via Computational-Chemistry, -Biophysics, Bioinformatics and Data-Science Projects🧪🔬🧬💻 </h3>
+<h3 align="center">Data and Computer Scientist 📊 via Computational-Biophysics, -Chemistry, Bioinformatics and Data-Science Projects🧪🔬🧬💻 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitosky1&label=Profile%20views&color=0e75b6&style=flat" alt="fitosky1" /> </p>
 
