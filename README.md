@@ -43,6 +43,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
+Please check my already published [scientific software projects](https://github.com/fitosky1?query=is%3Aclosed&tab=projects)
 
 <!---
 fitosky1/fitosky1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
